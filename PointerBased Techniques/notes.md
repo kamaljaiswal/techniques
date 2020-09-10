@@ -15,7 +15,7 @@
 
 ### Coding Problems Equi Directional
 
-Maximum sum any contiguous subarray of size k
-Middle Node of linked list
-Longest Substring Without Repeating Characters
-Remove Duplicate from sorted array
+    Maximum sum any contiguous subarray of size k
+    Middle Node of linked list
+    Longest Substring Without Repeating Characters
+    Remove Duplicate from sorted array
